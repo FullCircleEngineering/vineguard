@@ -1,0 +1,6 @@
+.idea/
+backend/vendor/
+frontend/node_modules/
+*.env
+*.secret
+server
