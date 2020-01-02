@@ -8,7 +8,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"io/ioutil"
 	"net/http"
-	"vineguard/environ"
+	"vineguard/internal/environ"
 )
 
 type Svc interface {
