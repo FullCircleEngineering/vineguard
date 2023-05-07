@@ -10,7 +10,7 @@
     "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.10.2",
     "react-google-login": "^5.0.7",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "react-timeseries-charts": "^0.16.1",
     "rxjs": "latest"
   },
@@ -45,7 +45,7 @@
     "babel-loader": "^8.0.0-beta.0",
     "css-loader": "^2.1.1",
     "file-loader": "^4.0.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.1",
     "node-sass": "^4.12.0",
     "react-router-dom": "^5.1.2",
     "sass-loader": "^7.1.0",
